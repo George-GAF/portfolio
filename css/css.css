@@ -466,7 +466,7 @@ body {
 }
 
 .container .contact-content .social {
-    display: flex;
+    display: none;
     margin-top: 20px;
     font-size: 16px;
     color: var(--second-color);
